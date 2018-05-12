@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/864
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Larcom
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29626#Our-Young-Folks-Vol-1-No.-1An-Illustrated-Magazine
 gutenberg_bookshelf: Our Young Folks
 gutenberg_issued: '2009-08-06'
 gutenberg_type: Text
